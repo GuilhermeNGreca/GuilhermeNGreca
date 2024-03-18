@@ -1,7 +1,9 @@
 ## Hey guys! I'm Guilherme Greca
 
+
+
 <div align="left">
- <a href="https://github.com/Filipelevar"></a>
+ <a href="https://github.com/GuilhermeNGreca"></a>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNGreca&show_icons=true&theme=dracula" />
    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNGreca&layout=compact&theme=dracula" />  
 <div> 
@@ -24,5 +26,3 @@
   <a href="https://www.linkedin.com/in/guilherme-greca-155027263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/GuilhermeNGreca/GuilhermeNGreca/blob/output/github-contribution-grid-snake.svg)
