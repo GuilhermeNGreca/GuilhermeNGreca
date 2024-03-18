@@ -1,10 +1,12 @@
 ## Fala pessoal!!! Eu sou o Guilherme Greca
 
-<div>
-  <a href="https://github.com/GuilhermeNGreca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNGreca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNGreca&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<div align="left">
+ <a href="https://github.com/Filipelevar"></a>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNGreca&show_icons=true&theme=dracula" />
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNGreca&layout=compact&theme=dracula" />
+   
+   
+<div style="display: inline_block"> <br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
