@@ -1,13 +1,11 @@
 ## Hey guys! I'm Guilherme Greca
 
 <p>
- I am a Front-end developer with experience in React, TypeScript, JavaScript, Python, HTML, CSS, and more. <br>
- Currently studying Systems Analysis and Development to strengthen my theoretical knowledge. <br>
- I am actively participating in challenging projects to continuously build a diversified portfolio. 
+ I am a Front-end developer with experience in React, TypeScript, JavaScript, Python, HTML, CSS, and more. Currently studying Systems Analysis and Development to strengthen my theoretical knowledge. I am actively participating in challenging projects to continuously build a diversified portfolio. 
 </p>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" height="300">
 </p>
 
 <div style="display: inline_block">
