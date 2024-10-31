@@ -1,7 +1,7 @@
 ## Hey guys! I'm Guilherme Greca
 
 <p>
- I am a Front-end developer with experience in React, TypeScript, JavaScript, Python, HTML, CSS, and more. Currently studying Systems Analysis and Development to strengthen my theoretical knowledge. I am actively participating in challenging projects to continuously build a diversified portfolio. 
+Full Stack Developer with experience in React, TypeScript, JavaScript, Python, and databases, among other technologies. I am currently pursuing a degree in Systems Analysis and Development to deepen my theoretical knowledge. I actively participate in Full Stack projects at a remote Academy, where I am building a diverse portfolio. Additionally, I am interning as a systems developer at a company based in São Paulo, also remotely, where I work on XML mapping, PHP and JavaScript routines, and system integrations via API.
 </p>
 
 <p align="left">
@@ -19,6 +19,7 @@
   <img align="center" alt="Gui-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> - 
   <img align="center" alt="Gui-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> - 
   <img align="center" alt="Gui-Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+  <img align="center" alt="Gui-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
 
 ##
