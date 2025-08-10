@@ -1,7 +1,7 @@
 ## Hey guys! I'm Guilherme Greca
 
 <p>
-Full Stack Developer with experience in React, TypeScript, JavaScript, Python, and databases, among other technologies. I am currently pursuing a degree in Systems Analysis and Development to deepen my theoretical knowledge. I actively participate in Full Stack projects at a remote Academy, where I am building a diverse portfolio. Additionally, I am interning as a systems developer at a company based in São Paulo, also remotely, where I work on XML mapping, PHP and JavaScript routines, and system integrations via API.
+Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas, com experiência em React, TypeScript, JavaScript, Python, PHP, bancos de dados, entre outras tecnologias. Durante minha formação, participei de uma Academy onde desenvolvi um projeto Full Stack (https://www.solpra.com.br/). Atuei como desenvolvedor de sistemas, realizando mapeamento XML, rotinas em PHP e JavaScript, além de integrações via API. Atualmente, trabalho como desenvolvedor focado no desenvolvimento de VAs e Email Marketing.
 </p>
 
 <p align="left">
