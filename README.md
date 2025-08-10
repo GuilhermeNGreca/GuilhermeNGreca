@@ -1,4 +1,4 @@
-## Hey guys! I'm Guilherme Greca
+## E aí, pessoal! Eu sou o Guilherme Greca
 
 <p>
 Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas, com experiência em React, TypeScript, JavaScript, Python, PHP, bancos de dados, entre outras tecnologias. Durante minha formação, participei de uma Academy onde desenvolvi um projeto Full Stack (https://www.solpra.com.br/). Atuei como desenvolvedor de sistemas, realizando mapeamento XML, rotinas em PHP e JavaScript, além de integrações via API. Atualmente, trabalho como desenvolvedor focado no desenvolvimento de VAs e Email Marketing.
@@ -25,7 +25,7 @@ Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas, com
 ##
 
 <div> 
-  <h3>📧 Contacts<h3/>
+  <h3>📧 Contatos<h3/>
   <a href="https://www.instagram.com/guilhermegreca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme3fs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-greca-155027263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
